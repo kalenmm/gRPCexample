@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a8e54ff-948b-44fd-b099-53095276895e" name="Default Changelist" comment="" />
+    <list default="true" id="8a8e54ff-948b-44fd-b099-53095276895e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/proto/adder.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/api/adder.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/service.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-go/examples/helloworld/helloworld/helloworld.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/grpc-go/examples/helloworld/helloworld/helloworld.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc-go/examples/helloworld/helloworld/helloworld_grpc.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/grpc-go/examples/helloworld/helloworld/helloworld_grpc.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proto/services.proto" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +24,11 @@
     </option>
   </component>
   <component name="GOROOT" url="file://D:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1p36jO5I4OPpiiF5lilgXqB11zK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +40,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/grpc-go-course-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\go\src\gRPCexample\api" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
